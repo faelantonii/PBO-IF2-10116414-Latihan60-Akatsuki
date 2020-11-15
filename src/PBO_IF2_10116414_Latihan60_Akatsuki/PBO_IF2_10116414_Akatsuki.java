@@ -19,10 +19,7 @@ public class PBO_IF2_10116414_Akatsuki {
         String pakaian = "Pakaian hitam beserta corak awan merah";
         String tujuan = "Menangkap Semua Jinchuriki";
         
-        Member itachi = new Member("Itachi Uchiha", "Konohagakure", "Kunai", 
-                        "Anbu Captain Missing Ninja", "Mangekyo Sharingan", 
-                        "Kehabisan Chakra" ,"Suzaku(Merah darah)" , 
-                        true, pakaian, tujuan);
+        
         Member kisame = new Member("Kisame Hoshigaki", "Kirigakure", "Samehada", 
                         "S-Rank Missing Ninja", "Shark-o-mation", "Bunuh Diri",
                         " Nanju(Bintang Selatan)",  true, pakaian, tujuan); 
@@ -37,6 +34,10 @@ public class PBO_IF2_10116414_Akatsuki {
                         "Zonbi Konbi", "Dapat menggunakan ke lima elemen", 
                         "Dibunuh oleh Naruto Uzumaki dengan bantuan Team 10 dan Kakashi Hatake ",
                         "Hokuto(Bintang Utara)", true, pakaian, tujuan);
+        Member itachi = new Member("Itachi Uchiha", "Konohagakure", "Kunai", 
+                        "Anbu Captain Missing Ninja", "Mangekyo Sharingan", 
+                        "Kehabisan Chakra" ,"Suzaku(Merah darah)" , 
+                        true, pakaian, tujuan);
         Member hidan = new Member("Hidan", "Yugakure", "Sabit besar bermata tiga",
                         "Zonbi Konbi", "Immortality ","Tidak diketahui atau disegel Shikamaru" ,
                         "Santai(Tiga Tingkatan)", true, pakaian, tujuan);
