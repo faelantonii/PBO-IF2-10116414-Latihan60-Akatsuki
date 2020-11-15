@@ -11,7 +11,7 @@ package PBO_IF2_10116414_Latihan60_Akatsuki;
  * Nama       : Fael Antoni Wijaya 
  * Kelas      : PBO2/IF 2 
  * Nim        : 10116414
- * Deskripsi  : Program menampilkan akatsuki
+ * Deskripsi  : Program menampilkan member akatsuki
  */
 public class PBO_IF2_10116414_Akatsuki {
     public static void main(String[] args) {

@@ -8,6 +8,10 @@ package PBO_IF2_10116414_Latihan60_Akatsuki;
 /**
  *
  * @author sweenutt
+ * Nama       : Fael Antoni Wijaya 
+ * Kelas      : PBO2/IF 2 
+ * Nim        : 10116414
+ * Deskripsi  : Program menampilkan member akatsuki
  */
 public class Akatsuki {
     protected String pakaian;
